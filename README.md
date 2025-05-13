@@ -42,13 +42,6 @@ Visuals include:
 -  Scatter plot: Inventory Days vs Profit Margin
 -  Filters: Region, Category, Season
 
-##  Key Insights
-- **High Inventory Days & Low Margin:** Identified profit-draining sub-categories (e.g., "Snacks", "Cereal").
-- **Seasonality:** Categories like "Dairy" peak in **Summer**, while "Bakery" shines in **Winter**.
-- **Top Performers:** "Produce" and "Beverages" maintain high turnover and margin.
-- **Overstocked Items:** Sub-categories with high Inventory Days but low Profit Margin need clearance or discount strategies.
-
-
 ## Deliverables
 -  `Retail_Profitability_Report.pdf` – Summary of findings & recommendations  
 -  `Retail_Analytics.pbix` – Power BI interactive file  
